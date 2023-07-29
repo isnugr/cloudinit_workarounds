@@ -1,7 +1,5 @@
 
-# A minimal feature set workaround to initialize OPNsense images in openstack.
-
-Please find the workaround script for FreeBSD in branch **bsd-cloudinit**.
+# A minimal feature set workaround to initialize OPNsense images in Proxmox.
 
 ## Usage
 * Copy the directory `opnsense-cloudinit` into the target image folder `/root/`
